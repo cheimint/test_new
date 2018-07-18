@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-	cout << "origin" << endl;
+	cout << "linux" << endl;
 	return 0;
 
 }

@@ -3,8 +3,7 @@ using namespace std;
 
 int main()
 {
-fromwwwwwwww
-	cout << "hello world!" << endl;
+	cout << "origin" << endl;
 	return 0;
 
 }

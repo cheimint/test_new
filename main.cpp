@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-from windows!
+no linux
 	cout << "hello world!" << endl;
 	return 0;
 

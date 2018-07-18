@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-from winfffdows
+from windows
 	cout << "hello world!" << endl;
 	return 0;
 

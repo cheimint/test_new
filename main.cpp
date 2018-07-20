@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-	cout << "eclipse" << endl;
+	cout << "   eclipse" << endl;
 	return 0;
 
 }
